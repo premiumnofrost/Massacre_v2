@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MACS.cpp.obj": [
+			"MACS.init.gen.cpp.obj",
+			"MACS_AttributeSet.gen.cpp.obj",
+			"MACS_Character.gen.cpp.obj",
+			"MACS.cpp.obj",
+			"MACS_AttributeSet.cpp.obj",
+			"MACS_Character.cpp.obj"
+		]
+	}
+}

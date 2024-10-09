@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "4.0",
+	"FriendlyName": "MACS",
+	"Description": "This contains the CPP Classes required classes in MACS! High commented, simple and easy code to modify! This system makes use of the Gameplay Ability System Framework to create fast action combat in your project without need to spend time with the basics.",
+	"Category": "Gameplay",
+	"CreatedBy": "Demonrraz",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1xR66uYkgiK-I2NZHtDmVA9to_jAis4V4NJo5m0Xa-7Y",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/97bf6ab1e948431ea72ed687bed82e18",
+	"SupportURL": "https://discord.gg/sB2P2QGZp2",
+	"EngineVersion": "5.4",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MACS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"IOS",
+				"Android",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		}
+	]
+}

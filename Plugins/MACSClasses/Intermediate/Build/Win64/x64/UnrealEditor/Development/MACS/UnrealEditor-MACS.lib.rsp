@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MACS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\Massacre\Intermediate\Build\Win64\x64\MassacreEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\UnrealProjects\Massacre\Plugins\MACSClasses\Intermediate\Build\Win64\x64\UnrealEditor\Development\MACS\Module.MACS.cpp.obj"
+"D:\UnrealProjects\Massacre\Plugins\MACSClasses\Intermediate\Build\Win64\x64\UnrealEditor\Development\MACS\MACS.cpp.obj"
+"D:\UnrealProjects\Massacre\Plugins\MACSClasses\Intermediate\Build\Win64\x64\UnrealEditor\Development\MACS\MACS_AttributeSet.cpp.obj"
+"D:\UnrealProjects\Massacre\Plugins\MACSClasses\Intermediate\Build\Win64\x64\UnrealEditor\Development\MACS\MACS_Character.cpp.obj"
+"D:\UnrealProjects\Massacre\Plugins\MACSClasses\Intermediate\Build\Win64\x64\UnrealEditor\Development\MACS\Default.rc2.res"
+/OUT:"D:\UnrealProjects\Massacre\Plugins\MACSClasses\Intermediate\Build\Win64\x64\UnrealEditor\Development\MACS\UnrealEditor-MACS.lib"

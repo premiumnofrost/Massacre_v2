@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\massacre\\plugins\\macsclasses\\source\\macs\\private\\macs.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\massacre\\intermediate\\build\\win64\\x64\\massacreeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\massacre\\plugins\\macsclasses\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\macs\\definitions.macs.h",
+            "d:\\unrealprojects\\massacre\\plugins\\macsclasses\\source\\macs\\public\\macs.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
